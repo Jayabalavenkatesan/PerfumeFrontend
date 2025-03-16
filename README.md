@@ -1,7 +1,7 @@
 # PerfumeFrontend
 #  Perfume Project 
 
-## 🌟 Overview  
+##  Overview  
 The **Perfume Project** is a beautifully designed website showcasing luxury fragrances. Built using **HTML & CSS**, it features a sleek layout, high-quality images, and a responsive design for an elegant user experience.  
 
 ## 🛠️ Technologies Used  
@@ -13,6 +13,6 @@ The **Perfume Project** is a beautifully designed website showcasing luxury frag
 ✅ Perfume Collection Display  
 ✅ Smooth CSS Animations  
 
-## 🚀 Live Demo  
-🔗 [View Project](https://your-github-username.github.io/perfume-project/) *(Replace with your actual link)*  
+## Live Demo  
+🔗 [View Project](https://jayabalavenkatesan.github.io/PerfumeFrontend/) *(Replace with your actual link)*  
 
