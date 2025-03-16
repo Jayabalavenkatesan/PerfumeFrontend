@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+
+.header{
+    background-color: darksalmon;
+    color: rgb(54, 53, 53);
+    padding: 15px;
+
+}
+
+li,ul,h1{
+    display: inline;
+    cursor: pointer;
+}
+ul{
+    margin-left: 80%;
+}
+li:hover{
+    color: black;
+    cursor: alias;
+}
+input{
+    width: 60%;
+    padding: 10px;
+   
+}
+.searchbar{
+    padding: 30px;
+    text-align: center;
+}
+.imgbox{
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    border-width: 2px;
+    text-align: center;
+
+}
+.imgbox:hover{
+    background-color: black;
+    color: white;
+     cursor: pointer;
+}
+
+.aboutus{
+    padding: 20px;
+    text-align: center;
+}
+
+.contactus{
+    background-color: darksalmon;
+    color: rgb(54, 53, 53);
+    padding: 93.5px;
+    text-align: center;
+}
